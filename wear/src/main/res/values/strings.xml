@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GradientWatchFace</string>
+    <string name="analog_name">Gradient Watch Face</string>
+
+    <!--Color list screen start-->
+    <string name="color_list_title">Color Scheme</string>
+
+    <string name="color_purple_blue">Purple Teal</string>
+    <string name="color_orange_pink">Orange Pink</string>
+    <string name="color_grey_black">Grey Black</string>
+    <string name="color_cyan_indigo">Cyan Indigo</string>
+
+    <string name="gradient_watch_face_config_name">Settings</string>
+
+    <!--Color list screen end-->
+
+</resources>

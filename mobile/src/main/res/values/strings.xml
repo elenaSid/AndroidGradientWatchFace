@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GradientWatchFace</string>
+    <string name="analog_watchface_color">Background Color</string>
+    <string name="mobile_color_list_no_device">No wearable device is currently connected.</string>
+</resources>
